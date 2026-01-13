@@ -4,7 +4,7 @@ In this repository you can learn about FastAPI in details
 
 # Install the FastAPI
 
-- pip install fastapi
+``` pip install fastapi ```
 
 # Install other package (server and validation tool)
 
