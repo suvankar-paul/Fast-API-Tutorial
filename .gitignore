@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+env_list.txt
+
 
 # Distribution / packaging
 .Python
